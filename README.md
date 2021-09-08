@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-pagar-7929061a9/)](https://www.linkedin.com/in/saurabh-pagar-7929061a9//)
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-pagar-7929061a9/)](https://www.linkedin.com/in/saurabh-pagar-7929061a9//)
 
 I'm
 Full Stack Web Developer
